@@ -1,0 +1,28 @@
+.bg-body-tertiary{
+    background-color: rgb(173, 228, 255) !important;
+}
+.container-fluid{
+    background-color: rgb(173, 228, 255);
+}
+.dropdown-menu{
+    background-color: rgb(210, 240, 255);
+}
+body{
+    background-color: rgb(214, 241, 255);
+}
+.col{
+    text-align: center;
+}
+.row{
+    margin-top:20px;
+}
+#start{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#stop{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
