@@ -4,7 +4,7 @@ function nerd(){
     let pic = document.querySelector("#nerd");
     let cap = document.querySelector("#caption")
     console.log(pic.src)
-    if(pic.src.includes("cscapstone/Assignment3.07/assets/nerd.jpeg")){
+    if(pic.src.includes("assets/nerd.jpeg")){
         cap.innerHTML = "Squirrel!";
         cap.style.color = "brown";
         pic.src="assets/squirrel.jpeg";
